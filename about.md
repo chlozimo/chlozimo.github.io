@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a third year biochemistry student and I have been involved with Dr. Costanzo's organic synthesis research the last two and a half years here at Cal Poly, San Luis Obispo. My interest in polymer chemistry led me to be selected as the 2021 Phillips Space Scholar and I worked at the Space Vehicles Directorate at the Air Force Research Laboratory. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
 
-[armcdona@calpoly.edu](mailto:armcdona@calpoly.edu)
+[czimovet@calpoly.edu](mailto:armcdona@calpoly.edu)
