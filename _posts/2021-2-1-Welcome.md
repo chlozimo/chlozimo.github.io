@@ -2,4 +2,4 @@
 layout: post
 title: Welcome!
 ---
-You can change the title above if you want to and then write your content.  
+My name is Chloë Zimovets, I am a third year biochemistry student at Cal Poly, San Luis Obispo. 
