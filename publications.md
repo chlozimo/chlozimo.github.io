@@ -15,6 +15,6 @@ Awards
 3. William Frost Scholarship 2020
 4. Lowell Math and Science Scholarship 2019
 5. Winner of the 2016 California State-Wide Anthology Contest (over 10,000 submission)
-6. Published Poet in "Where Animals Move Like Planets" 
+6. Published poet in "Where Animals Move Like Planets" 
 7. 2nd-Place in All-City San Francisco Tennis Doubles 2018
 8. Seal of Biliteracy in Italian; Fluent in Russian 
